@@ -11,7 +11,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/zahid-mohammad-117579121/)](https://www.linkedin.com/in/zahid-mohammad-117579121/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?style=social&logo=Google-Chrome&logoColor=black&link=https://zahid.in/)](https://zahid.in/)
 
-[![Code Time](https://wakatime.com/badge/user/55be6508-87ce-4273-875e-f007b4032b9d.svg)](https://wakatime.com/badge/user/55be6508-87ce-4273-875e-f007b4032b9d.svg)
+[![Code Time](https://wakatime.com/badge/user/018d11ae-982d-481e-a3c0-411b13a49ce3.svg)
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fashleymavericks&logo=leetcode&logoColor=yellow)](https://leetcode.com/zahidmohammad495/)
 [![ProfileViews](https://komarev.com/ghpvc/?username=zahid-404&color=red&style=flat)](https://komarev.com/ghpvc/?username=zahid-404)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
